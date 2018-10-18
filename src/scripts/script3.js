@@ -1,1 +1,1 @@
-alert('hi this is echo file modified newly in vs code');
+alert('modified internally from parent project');
