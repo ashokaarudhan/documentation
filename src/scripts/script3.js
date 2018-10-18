@@ -1,1 +1,1 @@
-alert('modified internally from parent project');
+alert('modified internally from actual project');
